@@ -10,7 +10,7 @@ I started my journey as a Front-End developer on mid July 2021. Watching a bunch
 
 Don't hesitate to contact me, if you want a make a collaboration for a project. 😉
 
-You can find me on [![LinkedIn][1.2]][1] or [![Instagram][2.2]][2] or [![Medium][3.2]][3]
+Get in touch [![LinkedIn][1.2]][1] [![Instagram][2.2]][2] [![Medium][3.2]][3]
 
 <!-- Icons -->
 
